@@ -1,0 +1,21 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_url":"mysql://root:@localhost/ganublog",
+    "prod_url": "mysql://root:@localhost/ganublog",
+    "git_url": "https://www.github.com/ganuread",
+    "twit_url": "https://www.twitter.com/ganuread",
+    "fb_url": "https://www.instagram.com/ganuread",
+    "blog_name": "Ganuread",
+    "bsub_heading": "A blog like by ganureads",
+    "about_text": "My about is empty. I will be write about me wait for some time",
+    "no_of_post": "4",
+    "user_logo":"user.png",
+    "admin_user": "ganu",
+    "admin_password": "password",
+    "upload_location": "C:\\Users\\Ganu\\PycharmProjects\\flasklearn\\static\\assets\\img"
+  }
+
+}
